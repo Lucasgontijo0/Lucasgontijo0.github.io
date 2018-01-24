@@ -47,3 +47,6 @@ bower_components
 # Ignore Folders
 _site/
 /_site/
+
+# Generic extensions
+.vscode
