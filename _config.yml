@@ -1,0 +1,66 @@
+# Site Info
+title: Lucas Gontijo
+tagline: 'Computer Science Student Blog'
+description: 'Este é o meu blog no github onde organizo minhas idéias, projetos pessoais e estudos realizados em tópicos relacionados à Ciência da Computação.'
+baseurl: ""
+url: https://lucasgontijo0.github.io/
+logo: '/public/logo.png'
+
+# Site configurations
+gems:
+  - jekyll-paginate
+markdown: kramdown
+kramdown:
+  input: GFM
+excerpt_separator: "<!-- more -->"
+sass:
+  style: compressed
+  sass_dir: _scss    
+paginate: 5
+paginate_path: '/blog/page:num'
+permalink: pretty
+
+version: 1.0.0
+
+# About/contact
+author:
+  name: Lucas Gontijo
+  description: 'Este é o espaço onde organizo minhas idéias, projetos pessoais e estudos realizados em tópicos relacionados à Ciência da Computação.'
+  gravatar: 3e1e69e768bbe2e0e43d4454e047f176 # md5 hash of your email address
+  contact:
+    linkedin:  https://www.linkedin.com/in/lucasgontijo0
+    github:    https://github.com/Lucasgontijo0
+    # facebook:  <hide>
+    # twitter:   <hide>
+    # weibo:     <hide>
+    email:     http://www.google.com/recaptcha/mailhide/d?k=01IIZdGY4Oe57om3gO4EbenQ==&c=JgLznGTuKCFZRo3qlX9yr0z6jKc3doh511QIt-IkM9M=
+
+# Navigation (2nd level links supported)
+nav:
+  Home:           
+    - '/'
+  Categories:
+    - '/categories/'
+    - {Theoretical Computer Science: '404' }
+    - {Computer Engineering: '404' }
+    - {Applications: '404' }
+  Tags:
+    - '/tags/'
+  About:          
+    - '/about/'
+  Github Project: 
+    - 'https://github.com/Lucasgontijo0/Lucasgontijo0.github.io'
+
+# Where are tags and categories displayed
+tag_page: '/blog/tags/'
+category_page: '/blog/categories/'
+
+hero:
+  image: /public/img/we_will_be_giants_by_yalestewart.jpg
+  caption: Original Artwork &copy; <a href="http://yalestewart.deviantart.com/art/We-Will-Be-Giants-370176475">Yale Stewart</a>
+
+# Puglins
+mathjax: true # whether support mathjax
+google_analytics_token: 'UA-00000000-1' # leave blank if you don't want google analytics
+disqus_short_name: 'your_short_name' # leave blank if you don't want disqus
+
