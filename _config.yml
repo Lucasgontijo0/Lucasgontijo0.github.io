@@ -2,7 +2,7 @@
 title: Lucas Gontijo
 tagline: 'Computer Science Student Blog'
 description: 'Este é o meu blog no github onde organizo minhas idéias, projetos pessoais e estudos realizados em tópicos relacionados à Ciência da Computação.'
-baseurl: "/lanyon"
+baseurl: ""
 url: https://lucasgontijo0.github.io/
 logo: '/public/logo.png'
 
@@ -39,10 +39,13 @@ author:
 nav:
   Home:           
     - '/'
-  Blog:           
-    - '/blog/'
-    - { Categories: '/blog/categories/' }
-    - { Tags: '/blog/tags/' }
+  Categories:
+    - '/categories/'
+    - {Theoretical Computer Science: '404' }
+    - {Computer Engineering: '404' }
+    - {Applications: '404' }
+  Tags:
+    - '/tags/'
   About:          
     - '/about/'
   Github Project: 
