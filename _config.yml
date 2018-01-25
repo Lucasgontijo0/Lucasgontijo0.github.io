@@ -7,7 +7,7 @@ url: https://lucasgontijo0.github.io/
 logo: '/public/logo.png'
 
 # Site configurations
-gems:
+plugins:
   - jekyll-paginate
 markdown: kramdown
 kramdown:
@@ -43,7 +43,7 @@ nav:
     - '/categories/'
     - {Theoretical Computer Science: '404' }
     - {Computer Engineering: '404' }
-    - {Applications: '404' }
+    - {Applications: 'https://lucasgontijo0.github.io/categories/#categorie3' }
   Tags:
     - '/tags/'
   About:          
