@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Introducing Lanyon
-categories: Categorie3
-tag: Tag3
+title: Theoretical Computer Science 5
+categories: [Theoretical Computer Science]
+tag: [Subcategoria 3]
 ---
 
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.

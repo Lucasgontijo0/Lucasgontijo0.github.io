@@ -1,10 +1,8 @@
 ---
 layout: post
-title: What's Jekyll?
-categories:
-  - Categoria1
-  - subcategoria1
-tag: Tag1
+title: Application 2
+categories: [Applications]
+tag: [Subcategoria 1]
 ---
 
 [Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
