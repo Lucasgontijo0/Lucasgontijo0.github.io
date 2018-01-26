@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Example content
-categories: categorie2
-tag: tag2
+title: Computer Engineering 2
+categories: [Computer Engineering]
+tag: [Subcategoria 1]
 ---
 
 
