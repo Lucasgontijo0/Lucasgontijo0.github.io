@@ -1,3 +1,10 @@
+---
+layout: post
+title: PSEUDOREST O REST como ele não é!
+categories: [Uncategorized]
+tag: []
+---
+
 Hello world! em minha primeira postagem irei compartilhar um artigo que escrevi para um trabalho interdisciplinar, agradeço aos professores Emilio Dias e Rafael Araujo pela força durante a escrita, revisão e aos diversos debates, vamos lá.
 
 ----------
