@@ -41,9 +41,9 @@ nav:
     - '/'
   Categories:
     - '/categories/'
-    - {Theoretical Computer Science: '/categories/#theoretical-computer-science' }
-    - {Computer Engineering: '/categories/#computer-engineering' }
-    - {Applications: '/categories/#applications' }
+    #- {Theoretical Computer Science: '/categories/#theoretical-computer-science' }
+    #- {Computer Engineering: '/categories/#computer-engineering' }
+    #- {Applications: '/categories/#applications' }
   About:          
     - '/about/'
   Github Project: 
