@@ -37,7 +37,7 @@ author:
 
 # Navigation (2nd level links supported)
 nav:
-  Home:           
+  Início:           
     - '/'
   Categorias:
     - '/categories/'
@@ -46,7 +46,7 @@ nav:
     #- {Applications: '/categories/#applications' }
   Sobre:          
     - '/about/'
-  Github Projeto: 
+  Projeto no Github: 
     - 'https://github.com/Lucasgontijo0/Lucasgontijo0.github.io'
 
 # Where are tags and categories displayed
