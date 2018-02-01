@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PSEUDOREST O REST como ele não é!
-categories: [Uncategorized]
+categories: [Artigos]
 tag: []
 ---
 
