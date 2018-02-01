@@ -20,7 +20,7 @@ title: Blog
     {% endif %}
 
     <article>
-      {{ post.excerpt | truncate: 1000}}
+      {{ post.excerpt | truncate: 1000 | markdownify}}
     <article>
   </div>
   <div class="post-more" align="center">
