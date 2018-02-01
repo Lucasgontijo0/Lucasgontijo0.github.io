@@ -1,30 +1,16 @@
 ---
 layout: page
-title: About
+title: Sobre
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Meu nome é Lucas Gontijo. Eu sou um estudante de Ciência da Computação e desenvolvedor Back-end na @[ZUPIT](http://www.zup.com.br) e também um entusiasta do Ecossistema JAVA.
 
-There are currently two themes built on Poole:
+Este é o espaço onde organizo minhas idéias, projetos pessoais e estudos realizados em tópicos relacionados à Ciência da Computação.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Sou um entusiasta por tópicos da computação como: Paradigmas de Programação, Engenharia de Software, Linguagens Formais e Autômatos, Teoria dos Grafos, Estrutura de Dados, Complexidade Computacional, Sistemas Operacionais e Criptografia, tópicos que serão abordados com mais frequência.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## Por que esse blog?
+Este blog é um resumo das experiências durante o meu processo de aprendizagem. Também serve para ajudar as pessoas que tenham problemas semelhantes aos que eu tinha. Desejo que este blog possa testemunhar os meus passos durante a minha trajetória para me tornar um gigante e que possa ajudar outras pessoas com suas dúvidas e espero também incentivar outras pessoas a se tornarem curiosos sobre o mundo da computação. 
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Enfim, espero passar um pouco desse sentimento de entusiasmo que cresce cada vez mais à medida em que vou descobrindo novas coisas neste mundo tão vasto da Computação.
