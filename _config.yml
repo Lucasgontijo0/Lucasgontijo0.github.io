@@ -1,6 +1,6 @@
 # Site Info
 title: Lucas Gontijo
-tagline: 'In theory, theory and practice are the same. In practice, they are not.'
+tagline: ''
 description: 'Este é o meu blog no github onde organizo minhas idéias, projetos pessoais e estudos realizados em tópicos relacionados à Ciência da Computação.'
 baseurl: ""
 url: https://lucasgontijo0.github.io/
@@ -39,26 +39,22 @@ author:
 nav:
   Home:           
     - '/'
-  Categories:
+  Categorias:
     - '/categories/'
-    - {Theoretical Computer Science: '/categories/#theoretical-computer-science' }
-    - {Computer Engineering: '/categories/#computer-engineering' }
-    - {Applications: '/categories/#applications' }
-  About:          
+    #- {Theoretical Computer Science: '/categories/#theoretical-computer-science' }
+    #- {Computer Engineering: '/categories/#computer-engineering' }
+    #- {Applications: '/categories/#applications' }
+  Sobre:          
     - '/about/'
-  Github Project: 
+  Github Projeto: 
     - 'https://github.com/Lucasgontijo0/Lucasgontijo0.github.io'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
 
-hero:
-  image: /public/img/we_will_be_giants_by_yalestewart.jpg
-  caption: Original Artwork &copy; <a href="http://yalestewart.deviantart.com/art/We-Will-Be-Giants-370176475">Yale Stewart</a>
-
 # Puglins
 mathjax: true # whether support mathjax
-google_analytics_token: 'UA-00000000-1' # leave blank if you don't want google analytics
-disqus_short_name: 'your_short_name' # leave blank if you don't want disqus
+google_analytics_token: '' # leave blank if you don't want google analytics
+disqus_short_name: '' # leave blank if you don't want disqus
 
