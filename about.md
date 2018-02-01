@@ -4,7 +4,7 @@ title: Sobre
 ---
 
 
-Meu nome é Lucas Gontijo. Eu sou um estudante de Ciência da Computação e desenvolvedor Back-end na @[ZUPIT](http://www.zup.com.br) e também um entusiasta do Ecossistema JAVA.
+Meu nome é Lucas Gontijo. Eu sou um estudante de Ciência da Computação e desenvolvedor Back-end na @[ZUPIT](http://www.zup.com.br){:target="_blank"} e também um entusiasta do Ecossistema JAVA.
 
 Este é o espaço onde organizo minhas idéias, projetos pessoais e estudos realizados em tópicos relacionados à Ciência da Computação.
 
