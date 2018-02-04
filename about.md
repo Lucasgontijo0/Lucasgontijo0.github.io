@@ -13,4 +13,4 @@ Sou um entusiasta por tópicos da computação como: Paradigmas de Programação
 ## Por que esse blog?
 Este blog é um resumo das experiências durante o meu processo de aprendizagem. Também serve para ajudar as pessoas que tenham problemas semelhantes aos que eu tinha. Desejo que este blog possa testemunhar os meus passos durante a minha trajetória para me tornar um gigante e que possa ajudar outras pessoas com suas dúvidas e espero também incentivar outras pessoas a se tornarem curiosos sobre o mundo da computação. 
 
-Enfim, espero passar um pouco desse sentimento de entusiasmo que cresce cada vez mais à medida em que vou descobrindo novas coisas neste mundo tão vasto da Computação.
+Enfim, espero passar um pouco desse entusiasmo que cresce cada vez mais à medida em que vou descobrindo novas coisas neste mundo tão vasto da Computação.
