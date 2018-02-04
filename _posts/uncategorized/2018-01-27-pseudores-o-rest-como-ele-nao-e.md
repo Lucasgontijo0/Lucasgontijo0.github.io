@@ -70,7 +70,7 @@ Figura 2 - Exemplo de uso, Documentação OMDB API.
 
 Realizando a chamada da API em sua URL base, obtivemos o seguinte retorno:
 ```json
-  GET /?apikey=36ce0e14 HTTP/1.1
+  GET /?apikey=99xx9x99 HTTP/1.1
   HTTP/1.1 200 OK
   {
       "Response": "False",
@@ -326,11 +326,11 @@ Outro ponto a ser observado é que devido a falta do conceito de HATEOAS, o uso 
 ```
  Outro fator importante a ser observado é que a chamada de recurso idempotente são cacheados, evitando que sejam feitas requisições seguidas a recursos que não sofreram alterações, permitindo, portanto, um menor consumo de banda. 
  ```json
-GET /?apikey=36ce0e14&s=batman HTTP/1.1
+GET /?apikey=99xx9x99&s=batman HTTP/1.1
 HTTP/1.1 200 OK Time: 407ms
 ```
 ```json
-GET /?apikey=36ce0e14&s=batman HTTP/1.1
+GET /?apikey=99xx9x99&s=batman HTTP/1.1
 HTTP/1.1 200 OK Time: 39ms
   ```
 
