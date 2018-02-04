@@ -5,7 +5,7 @@ categories: [Artigos]
 tag: []
 ---
 
-Hello world! em minha primeira postagem irei compartilhar um artigo que escrevi para um trabalho interdisciplinar, agradeço aos professores Emilio Dias e Rafael Araujo pela força durante a escrita, revisão e aos diversos debates, vamos lá.
+Hello world! Em minha primeira postagem irei compartilhar um artigo que escrevi para um trabalho interdisciplinar, agradeço aos professores Emilio Dias e Rafael Araujo pela força durante a escrita, revisão e aos diversos debates, vamos lá.
 
 ----------
 Existe uma confusão muito grande sobre os conceitos do estilo arquitetural REST (*Representational State Transfer*), onde diversas implementações são nomeadas como tal incorretamente. O criador do REST, Roy Fieldman, tem feito diversas críticas acerca de diversas implementações que somente se assemelham ao seu modelo arquitetural, mas que não são de fato uma instância do mesmo, logo essas implementações se nomeiam como REST de forma errada. 
