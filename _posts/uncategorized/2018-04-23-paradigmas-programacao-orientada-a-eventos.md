@@ -7,8 +7,7 @@ tag: []
 
 ## O que é ?
 
-O que é um evento?
-
+Mas primeiramente, o que é um evento?
 Um evento é a indicação de algo que aconteceu, é o resultado de uma ação.
 
 A Programação Orientada à Eventos é um paradigma de programação onde a execução do código é determinada pelo disparo de eventos, existem rotinas responsáveis por capturar estes eventos e executar determinados comportamentos que são respostas a estes eventos. Ou seja, a ocorrência de um evento pode provocar uma reação que pode ser uma ação (ou um conjunto delas) a ser tomada.
