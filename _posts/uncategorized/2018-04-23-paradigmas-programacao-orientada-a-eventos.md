@@ -5,8 +5,6 @@ categories: [Paradigmas de Programação]
 tag: []
 ---
 
-# Programação Orientada a Eventos
-
 ## O que é ?
 
 O que é um evento?
