@@ -12,7 +12,7 @@ Um evento é a indicação de algo que aconteceu, é o resultado de uma ação.
 
 A Programação Orientada à Eventos é um paradigma de programação onde a execução do código é determinada pelo disparo de eventos, existem rotinas responsáveis por capturar estes eventos e executar determinados comportamentos que são respostas a estes eventos. Ou seja, a ocorrência de um evento pode provocar uma reação que pode ser uma ação (ou um conjunto delas) a ser tomada.
 
-Uma curiosidade deste paradigma é que ele trabalha com o Princípio de Hollywood: "**Não nos telefone, nós telefonaremos para você.**"
+Uma curiosidade deste paradigma é que ele trabalha com o Princípio de Hollywood: "**Não nos telefone, nós telefonaremos para você.**"  
 A princípio seriam atores que realizaram testes e estão aguardando uma ligação com o resultado em vez de ligarem pedindo a informação, por exemplo.
 
 Para contextualizar melhor o conceito realizei as seguintes abordagens:
