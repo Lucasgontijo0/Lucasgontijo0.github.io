@@ -29,7 +29,7 @@ Uma abordagem interessante para solucionar este problema, seria o enfileiramento
 ### Implementação
 
 **Motor de Eventos:**
-O motor de eventos, possui uma fila para o armazenamento dos eventos que chegam e também para o consumo onde ao invocar invocar o método **start()** é aberta uma thread que fica infinitamente consumindo a fila. Existe também um mapa que utilizei para registrar os tipos de eventos e um tipo genérico (EventListener) que implementa a ação a ser tomada para aquele tipo de evento.
+O motor de eventos, possui uma fila para o armazenamento dos eventos que chegam e também para o consumo onde ao invocar o método **start()** é aberta uma thread que fica infinitamente consumindo a fila. Existe também um mapa que utilizei para registrar os tipos de eventos e um tipo genérico (EventListener) que implementa a ação a ser tomada para aquele tipo de evento.
 ```java
 package queuing.event;
 import java.util.HashMap;  
