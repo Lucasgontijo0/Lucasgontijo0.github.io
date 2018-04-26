@@ -15,10 +15,9 @@ A Programação Orientada à Eventos é um paradigma de programação onde a exe
 Uma curiosidade deste paradigma é que ele trabalha com o Princípio de Hollywood: "**Não nos telefone, nós telefonaremos para você.**"  
 A princípio seriam atores que realizaram testes e estão aguardando uma ligação com o resultado em vez de ligarem pedindo a informação, por exemplo.
 
-Para contextualizar melhor o conceito realizei as seguintes abordagens:
+Para contextualizar melhor o conceito realizei a seguinte abordagem:
 
  1.  [Enfileiramento](https://github.com/constantlearning/poc-event-driven-programming/tree/master/src/queuing)
- 2.  [Interrupção](https://github.com/constantlearning/poc-event-driven-programming/tree/master/src/interruption) ~~Em implementação~~
 
 ## Enfileiramento
 
