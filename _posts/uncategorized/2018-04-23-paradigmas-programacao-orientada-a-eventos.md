@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Programação Orientada a Eventos
